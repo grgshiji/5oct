@@ -1,0 +1,39 @@
+{
+  "name": "5oct",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/5oct.git",
+    "ssh": "git@github.com:grgshiji/5oct.git",
+    "branch": "block_5oct"
+  },
+  "dependencies": {
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    },
+    "package_block_under_5oct": {
+      "directory": "package_block_under_5oct"
+    }
+  },
+  "blockId": "ADld2WLVrlyAYiCo8M_k4",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}

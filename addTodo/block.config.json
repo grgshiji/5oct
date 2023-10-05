@@ -1,8 +1,8 @@
 {
   "type": "function",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/grgshiji/5oct.git",
+    "ssh": "git@github.com:grgshiji/5oct.git",
     "branch": "block_addTodo"
   },
   "language": "nodejs",

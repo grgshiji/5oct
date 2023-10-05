@@ -2,8 +2,8 @@
   "name": "5oct",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/5oct.git",
+    "ssh": "git@github.com:grgshiji/5oct.git",
     "branch": "block_5oct"
   },
   "dependencies": {
@@ -24,6 +24,9 @@
     },
     "todoContainer": {
       "directory": "todoContainer"
+    },
+    "package_block_under_5oct": {
+      "directory": "package_block_under_5oct"
     }
   },
   "blockId": "ADld2WLVrlyAYiCo8M_k4",

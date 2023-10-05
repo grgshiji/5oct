@@ -1,0 +1,18 @@
+{
+  "blockId": "Ne3HvqlZFnSozWWBM6ZYD",
+  "name": "package_block_under_5oct",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/5oct.git",
+    "ssh": "git@github.com:grgshiji/5oct.git",
+    "branch": "block_package_block_under_5oct"
+  },
+  "parentBlockIDs": [
+    "ADld2WLVrlyAYiCo8M_k4"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true
+}
